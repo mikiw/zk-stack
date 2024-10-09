@@ -1,0 +1,14 @@
+id: 1
+name: zk_chain_1
+chain_id: 271
+prover_version: Gpu
+configs: /Users/mikiw/Documents/Workspace/zk-sync/zk_chain/chains/zk_chain_1/configs/
+rocks_db_path: /Users/mikiw/Documents/Workspace/zk-sync/zk_chain/chains/zk_chain_1/db/
+external_node_config_path: null
+artifacts_path: /Users/mikiw/Documents/Workspace/zk-sync/zk_chain/chains/zk_chain_1/artifacts/
+l1_batch_commit_data_generator_mode: Rollup
+base_token:
+  address: '0x0000000000000000000000000000000000000001'
+  nominator: 1
+  denominator: 1
+wallet_creation: Localhost

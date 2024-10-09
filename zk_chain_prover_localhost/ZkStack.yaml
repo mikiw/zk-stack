@@ -1,0 +1,10 @@
+name: zk_chain
+l1_network: Localhost
+link_to_code: /Users/mikiw/Documents/Workspace/zk-sync/zk_chain/zksync-era
+bellman_cuda_dir: null
+chains: /Users/mikiw/Documents/Workspace/zk-sync/zk_chain/chains
+config: /Users/mikiw/Documents/Workspace/zk-sync/zk_chain/configs/
+default_chain: zk_chain_1
+era_chain_id: 270
+prover_version: Gpu
+wallet_creation: Localhost
